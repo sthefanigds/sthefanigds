@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Sthefani
-- 👀 I’m interested in Data Analysis 
-- 🌱 I’m currently learning Python and SQL.
-- 📫 How to reach me: sthefanigdasilva@gmail.com
+- Sthefani Silva, Cuiabá-MT
+- Graduação em Ciências Econômicas @UFMT, Ciência de Dados @FIAP 
+- Estagiária de dados: Levantamento, Tratamento e Análise. 
+- Estudo R, SQL e Powerbi.
+- Entre em contato comigo por: sthefanigdasilva@outlook.com ou pelo twitter: sthefanigds
 
